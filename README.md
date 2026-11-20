@@ -88,11 +88,10 @@ railjet/
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/<your-repo-name>.git
+git clone https://github.com/ArmaanAnas/railjet-train-booking.git
 
 # Go to the project folder
-cd <your-repo-name>
-
+cd railjet-train-booking
 # Install dependencies
 npm install
 
